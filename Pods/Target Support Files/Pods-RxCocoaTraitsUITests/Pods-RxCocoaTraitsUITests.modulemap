@@ -1,0 +1,6 @@
+framework module Pods_RxCocoaTraitsUITests {
+  umbrella header "Pods-RxCocoaTraitsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
